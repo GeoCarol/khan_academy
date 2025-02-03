@@ -12,7 +12,8 @@ Then, decide how the difficulty will progress from level to level. You can vary 
 
 Design at least five unique game levels that increase in difficulty.
 
-Write down your plan for each level as you go. This will guide how you organize your code.
+>[!TIP]
+>Write down your plan for each level as you go. This will guide how you organize your code.
 
 **Game over**
 
@@ -30,10 +31,12 @@ Add at least three new function definitions to typer.py to support your leveling
 
 Use the functions to build your game logic in main.py.
 
-Remember to test your game as you go, thinking through any edge cases.
+>[!TIP]
+>Remember to test your game as you go, thinking through any edge cases.
 
 **More to explore**
 
 Imagine players are taken to a menu screen when they first open the game. Add a prompt that asks the user to select between multiple game options, and then use that option to adapt the gameplay. For example, players might choose between overall difficulty modes, like easy, medium, and hard, that shift the difficulty of all levels.
 
-Playtest your game with friends and family. Observe where they’re getting stuck or which levels they’re winning too easily. How can you adjust the balance of challenge and reward in your game to better keep them motivated and engaged?
+>[!TIP]
+>Playtest your game with friends and family. Observe where they’re getting stuck or which levels they’re winning too easily. How can you adjust the balance of challenge and reward in your game to better keep them motivated and engaged?
