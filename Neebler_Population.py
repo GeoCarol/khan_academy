@@ -3,7 +3,7 @@
 import random
 
 # Starting population with each trait variation.
-green_neeblers = 100
+green_neeblers = 50
 yellow_neeblers = 100
 
 # Loop to simulate generations of neeblers
