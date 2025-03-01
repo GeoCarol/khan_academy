@@ -10,7 +10,8 @@ level_summary = typer.mode_summary(difficulty_level, round_time_limit)
 # Confirm the player is ready to play
 ready = input("** Ready to play? Press any key to start! **")
                  
-# Play three rounds of a speed typing game.
+# TODO: Stop "You did it" from printing after each round.
+# # Play three rounds of a speed typing game.
 for round in range(1, 4):
     
     words_to_type = typer.pick_random_words(round, difficulty_level)
